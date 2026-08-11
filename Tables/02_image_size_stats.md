@@ -1,0 +1,7 @@
+### Image Size Statistics
+
+| metric | min | median | max | mean |
+|---|---|---|---|---|
+| Width (px) | 150 | 278 | 1920 | 355 |
+| Height (px) | 168 | 331 | 1427 | 387 |
+| File size (KB) | 3.4 | 20.2 | 710.8 | 33.6 |

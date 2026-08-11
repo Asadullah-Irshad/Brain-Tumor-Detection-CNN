@@ -1,0 +1,8 @@
+### Per-Model Metrics (tumor = positive class)
+
+| Model | Accuracy | Precision | Recall | F1 | ROC AUC |
+|---|---|---|---|---|---|
+| CNN - 3 conv + early stopping | 0.967 | 0.946 | 1.000 | 0.972 | 0.98 |
+| CNN - 2 conv blocks | 1.000 | 1.000 | 1.000 | 1.000 | 1.00 |
+| CNN - 3 conv + augmentation | 1.000 | 1.000 | 1.000 | 1.000 | 1.00 |
+| VGG16 (transfer learning) | 0.540 | 0.605 | 0.742 | 0.667 | 0.54 |

@@ -1,0 +1,7 @@
+### Dataset Composition
+
+| Class | images | pct |
+|---|---|---|
+| Tumor (yes) | 155 | 61.5 |
+| Non-tumor (no) | 97 | 38.5 |
+| Total | 252 | 100.0 |
